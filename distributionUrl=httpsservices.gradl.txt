@@ -1,0 +1,10 @@
+ssh-keygen -t ed25519 -C "arnoldofreire@gmail.om"
+
+novo repositor 
+git@github.com:arnoldofreire/DesafioBancoDigital.git
+
+
+git@github.com:arnoldofreire/DesafioBanco.git
+
+
+git@github.com:arnoldofreire/DesafioBanco.git
